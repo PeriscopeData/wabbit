@@ -1,0 +1,6 @@
+github.com/google/uuid v1.0.0 h1:b4Gk+7WdP/d3HZH8EJsZpvV7EtDOgaZLtnaNGIu1adA=
+github.com/google/uuid v1.0.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/pborman/uuid v0.0.0-20180909234540-25cd46ecac86 h1:kX78iVDtH+/sB0tiR3mkEEsO338B2F3OwE6t5d7vQmE=
+github.com/pborman/uuid v0.0.0-20180909234540-25cd46ecac86/go.mod h1:VyrYX9gd7irzKovcSS6BIIEwPRkP2Wm2m9ufcdFSJ34=
+github.com/streadway/amqp v0.0.0-20180806233856-70e15c650864 h1:Oj3PUEs+OUSYUpn35O+BE/ivHGirKixA3+vqA0Atu9A=
+github.com/streadway/amqp v0.0.0-20180806233856-70e15c650864/go.mod h1:1WNBiOZtZQLpVAyu0iTduoJL9hEsMloAK5XWrtW0xdY=
